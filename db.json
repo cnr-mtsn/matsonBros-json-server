@@ -37,6 +37,63 @@
           "stain": ["2:1 Dark Walnut:clear"]
         }
       }
+    },
+    {
+      "id": 3,
+      "builder": "Chad McGraw",
+      "location":"Park Ridge 112",
+      "colors": {
+         "exterior": {
+          "body": "Pure White",
+          "trim": "Iron Ore",
+          "stain":["2:1 Walnut:clear"]
+        },
+        "interior": {
+          "ceiling": "On the Rocks",
+          "closets": "Matson White",
+          "trim": ["Snowbound", "Army Green"],
+          "walls": ["On the Rocks"],
+          "stain": ["2:1 Dark Walnut:clear"]
+        }
+      }
+    },
+    {
+      "id": 4,
+      "builder": "Chad McGraw",
+      "location":"Park Ridge 113",
+      "colors": {
+         "exterior": {
+          "body": "Pure White",
+          "trim": "Iron Ore",
+          "stain":["2:1 Walnut:clear"]
+        },
+        "interior": {
+          "ceiling": "On the Rocks",
+          "closets": "Matson White",
+          "trim": ["Snowbound", "Army Green"],
+          "walls": ["On the Rocks"],
+          "stain": ["2:1 Dark Walnut:clear"]
+        }
+      }
+    },
+    {
+      "id": 5,
+      "builder": "Chad McGraw",
+      "location":"Park Ridge 114",
+      "colors": {
+         "exterior": {
+          "body": "Pure White",
+          "trim": "Iron Ore",
+          "stain":["2:1 Walnut:clear"]
+        },
+        "interior": {
+          "ceiling": "On the Rocks",
+          "closets": "Matson White",
+          "trim": ["Snowbound", "Army Green"],
+          "walls": ["On the Rocks"],
+          "stain": ["2:1 Dark Walnut:clear"]
+        }
+      }
     }
   ]
 }
